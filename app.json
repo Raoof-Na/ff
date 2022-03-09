@@ -8,8 +8,8 @@
     "generator"
   ],
   "success_url": "https://telegram.dog/string_session_Nsbot",
-  "website": "https://github.com/Ns-AnoNymouS/string-session-generator-bot",
-  "repository": "https://github.com/Ns-AnoNymouS/string-session-generator-bot",
+  "website": "https://github.com/Raoof-Na/ff",
+  "repository": "https://github.com/Raoof-Na/ff",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
